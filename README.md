@@ -2,6 +2,9 @@
 A Responsive sudoku solver where users can improve sudoku solving skills. Implemented sudoku solving backtracking algorithm to solve a particular problem in three difficulty level as easy, medium &amp; hard.
 Technologies Used : HTML, CSS, JavaScript
 
+Project Video :
+https://user-images.githubusercontent.com/57001832/151989191-c4de026b-0126-4b77-91e1-84523d1d01e9.mp4
+
 The main page of the project look as :
 
 ![First Page](https://user-images.githubusercontent.com/57001832/151976969-cf193df4-cf8e-4e35-8b84-f8da8e291264.png)
